@@ -1,0 +1,54 @@
+# Build settings
+permalink   : /blog/:year/:title/
+markdown    : kramdown
+#highlighter : pygments
+highlighter : true
+
+paginate: 3
+paginate_path: "/blog/page/:num/"
+comments: true
+
+source: source
+destination: _site
+sass:
+  sass_dir: _scss
+  style: compressed # expanded
+
+# SEO settings
+title: 朱良说说话 / Julius Chu's Site
+description: "A free Jekyll theme for download"
+keywords: "Driver, theme, free, download, SEO, blog, web"
+url: http://zhuliang.io
+baseurl: "/blog"
+#baseurl: ""
+
+# google_analytics: UA-52446115-1
+repo: http://github.com/nandomoreirame/end2end
+disqus_shortname: "fernandomoreira"
+disqus_site_shortname: "fernandomoreira"
+
+# Author settings
+author:
+  name      : Julius Chu
+  job       : Driver Software Engineer
+  bio       : "专注于驱动软件开发和硬件产品化，业余时间总是学习和寻找更多有趣的技能和项目。"
+  thumb     : /images/author.jpg
+  email     : 44775690@qq.com
+  url       : http://zhuliang.io
+  github    : http://github.com/nandomoreirame
+  twitter   : http://twitter.com/nandomoreirame
+  facebook  : http://facebook.com/fernando.dev
+  linkedin  : http://linkedin.com/in/nandomoreirame
+
+# navbar pages
+navbar:
+  - slug: about
+    title: About
+  # - slug: resume
+  #   title: Resume
+  # - slug: skills
+  #   title: Skills
+  - slug: blog
+    title: Blog
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
