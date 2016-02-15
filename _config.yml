@@ -8,8 +8,8 @@ paginate: 3
 paginate_path: "/blog/page/:num/"
 comments: true
 
-source: source
-destination: _site
+#source: source
+#destination: _site
 sass:
   sass_dir: _scss
   style: compressed # expanded
@@ -31,7 +31,7 @@ disqus_site_shortname: "fernandomoreira"
 author:
   name      : Julius Chu
   job       : Driver Software Engineer
-  bio       : "专注于驱动软件开发和硬件产品化，业余时间总是学习和寻找更多有趣的技能和项目。"
+  bio       : "专注于驱动软件开发和硬件产品化，业余时间总在学习更多有趣的技能。"
   thumb     : /images/author.jpg
   email     : 44775690@qq.com
   url       : http://zhuliang.io
