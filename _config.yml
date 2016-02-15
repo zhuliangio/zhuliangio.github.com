@@ -19,8 +19,8 @@ title: 朱良说说话 / Julius Chu's Site
 description: "A free Jekyll theme for download"
 keywords: "Driver, theme, free, download, SEO, blog, web"
 url: http://zhuliang.io
-baseurl: "/blog"
-#baseurl: ""
+#baseurl: "/blog"
+baseurl: ""
 
 # google_analytics: UA-52446115-1
 repo: http://github.com/nandomoreirame/end2end
