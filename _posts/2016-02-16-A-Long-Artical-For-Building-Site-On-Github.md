@@ -9,6 +9,7 @@ publish:	true
 
 #一篇不太短的Github搭建个人站点/blog的经验总结，未完成...#
 
+
 我终于在Github上搭建了一个个人站点，希望自己以后会不断维护更新，并能在这个工程中提升自己的专业修养和个人素养。这篇经验是我搭建这个站点的全纪录，预计不会太短，希望会对看到这篇经验的人能有所帮助。
 
 这篇经验面向的人群：有一定的软件背景，至少要懂一些软件开发术语的意思。
@@ -18,6 +19,7 @@ publish:	true
 - 关于Blog的选择
 - 申请Github账户
 - Jekyll和Git Bash安装
+	- Git Bash如何支持两个账户
 - 模板选择以及Jekyll和Github Pages的调试
 - Godaddy和域名
 - 图床和Markdown
@@ -52,7 +54,10 @@ publish:	true
 ![](http://7xqx7c.com1.z0.glb.clouddn.com/GithubSignup-0.png)
 
 ##Jekyll安装##
+
 ##模板选择以及Jekyll和Github Pages的调试##
+
 ##Godaddy和域名##
+
 ##Markdown、图床及其他##
 
