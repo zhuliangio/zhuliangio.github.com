@@ -46,7 +46,7 @@ publish:	true
 		- 折腾
 		- 功能勉强够用，这个见仁见智
 
-##申请Github账户##
+## 申请Github账户
 
 1.打开Github主页：[Github.com](www.github.ocm)
 ![](http://7xqx7c.com1.z0.glb.clouddn.com/GithubSignup-0.png)
