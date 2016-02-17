@@ -21,8 +21,7 @@ publish:	true
 - Godaddy和域名
 - 图床和Markdown
 
-关于Blog的选择
-===================================================
+# 1.关于Blog的选择
 
 我们要清楚我们内心，我们究竟想要什么。江湖经验是：只有都试过才知道你想要的是什么。但是我都试过，所以将自己的见解列出来，如果您信任这些经验，也许可以少走弯路。
 
@@ -46,15 +45,17 @@ publish:	true
 		- 折腾
 		- 功能勉强够用，这个见仁见智
 
-## 申请Github账户
+# 2.申请Github账户
 
 1.打开Github主页：[Github.com](www.github.ocm)
 ![](http://7xqx7c.com1.z0.glb.clouddn.com/GithubSignup-0.png)
 
-##Jekyll安装##
+# 3.Jekyll和Git Bash安装
 
-##模板选择以及Jekyll和Github Pages的调试##
+## a.Git Bash如何支持两个账户
 
-##Godaddy和域名##
+# 4.模板选择以及Jekyll和Github Pages的调试
 
-##Markdown、图床及其他##
+# 5.Godaddy和域名
+
+# 6.Markdown、图床及其他
