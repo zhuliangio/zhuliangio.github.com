@@ -23,7 +23,7 @@ url: http://zhuliang.io
 baseurl: ""
 
 # google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/end2end
+repo: https://github.com/zhuliangio
 disqus_shortname: "fernandomoreira"
 disqus_site_shortname: "fernandomoreira"
 
@@ -36,7 +36,7 @@ author:
   email     : 44775690@qq.com
   url       : http://zhuliang.io
   github    : https://github.com/zhuliangio
-  twitter   : http://twitter.com/nandomoreirame
+  twitter   : http://twitter.com/JuliusComing
   facebook  : https://www.facebook.com/zhuliang.nwpu
   linkedin  : https://cn.linkedin.com/in/良-朱-97b981a7
 
